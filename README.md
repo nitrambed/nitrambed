@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Deborah MARTIN</h1>
 <h3 align="center">A passionate fullstack Ruby on Rails developer based in France 🇫🇷</h3>
 
-- 🌱 I took a training course provided by **Le Wagon**
+- 🌱 I took a training course provided by Le Wagon
 
-- 📫 How to reach me **nitrambed(a)protonmail.com**
+- 📫 How to reach me nitrambed(a)protonmail.com
 
 - 📄 Know about my experiences [www.linkedin.com/in/deborah-martin-developpeur-web-fullstack-ruby](www.linkedin.com/in/deborah-martin-developpeur-web-fullstack-ruby)
 
